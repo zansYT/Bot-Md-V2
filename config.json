@@ -1,15 +1,15 @@
 {
-    "ownerNumber": ["0@s.whatsapp.net","0@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "WhatsApp Bot",
+    "ownerNumber": ["6285921165857@s.whatsapp.net","6285921165857@s.whatsapp.net"],
+    "ownerName": "Christian ID",
+    "instagram" : "https://instagram.com/chris.tianid",
+    "botName": "Izumi MD",
+    "footer": "Izumi Bot WhatsApp",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
     "gamewaktu": 90,
-    "limitCount": 25,
+    "limitCount": 30,
     "gcount": {
         "prem": 35,
-        "user": 15
+        "user": 25
     }
 }
