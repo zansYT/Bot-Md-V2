@@ -161,7 +161,7 @@ ${mundur}
  • ${prefix}fakehidetag
  • ${prefix}react
  • ${prefix}setcmd
- • ${prefix}delcmd$
+ • ${prefix}delcmd
 
 *OWNERS MENU*
  • ${prefix}join
