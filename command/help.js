@@ -37,7 +37,7 @@ ${mundur}
  • Limit Game : ${isOwner ? '-' : cekGLimit(sender, gcount, glimit)}
  • Balance : $${toCommas(getBalance(sender, balance))}
 
-*MAIN MENU*${petik}
+*MAIN MENU* 
  • ${prefix}menu
  • ${prefix}infobot
  • ${prefix}donate
@@ -50,9 +50,9 @@ ${mundur}
  • ${prefix}listsewa
  • ${prefix}speed
  • ${prefix}runtime
- • ${prefix}listbahasa${petik}
+ • ${prefix}listbahasa 
 
-*CONVERTER/TOOLS*${petik} 
+*CONVERTER/TOOLS*  
  • ${prefix}sticker
  • ${prefix}stickerwm
  • ${prefix}smeme
@@ -67,16 +67,16 @@ ${mundur}
  • ${prefix}foliokiri
  • ${prefix}foliokanan
  • ${prefix}say
- • ${prefix}translate${petik}
+ • ${prefix}translate 
 
-*ANONYMOUS CHATS*${petik}
+*ANONYMOUS CHATS* 
  • ${prefix}anonymous
  • ${prefix}start
  • ${prefix}next
  • ${prefix}stop
- • ${prefix}sendprofile${petik}
+ • ${prefix}sendprofile 
 
-*STORE MENU*${petik}
+*STORE MENU* 
  • ${prefix}list
  • ${prefix}addlist
  • ${prefix}dellist
@@ -87,9 +87,9 @@ ${mundur}
  • ${prefix}kali
  • ${prefix}bagi
  • proses < reply chat >
- • done < reply chat >${petik}
+ • done < reply chat > 
 
-*DOWNLOADS MENU*${petik}
+*DOWNLOADS MENU* 
  • ${prefix}play
  • ${prefix}ytmp3
  • ${prefix}ytmp4
@@ -97,11 +97,11 @@ ${mundur}
  • ${prefix}igstory
  • ${prefix}tiktok
  • ${prefix}tiktoknowm
-  • ${prefix}tiktokaudio
+ • ${prefix}tiktokaudio
  • ${prefix}facebook
- • ${prefix}mediafire${petik}
+ • ${prefix}mediafire 
 
-*GROUP MENU*${petik}
+*GROUP MENU*
  • ${prefix}afk
  • ${prefix}welcome
  • ${prefix}left
@@ -125,46 +125,45 @@ ${mundur}
  • ${prefix}demote
  • ${prefix}revoke
  • ${prefix}hidetag
- • ${prefix}checksewa${petik}
+ • ${prefix}checksewa
 
-*GAME MENU*${petik}
+*GAME MENU*
  • ${prefix}tictactoe
  • ${prefix}delttt
  • ${prefix}casino
- • ${prefix}delcasino${petik}
+ • ${prefix}delcasino
 
-*SEARCH MENU*${petik}
+*SEARCH MENU*
  • ${prefix}lirik
  • ${prefix}grupwa
  • ${prefix}pinterest
  • ${prefix}ytsearch
- • ${prefix}searchbyimage${petik}
+ • ${prefix}searchbyimage
 
-*RANDOM MENU*${petik}
+*RANDOM MENU*
  • ${prefix}cecan
  • ${prefix}cogan
- • ${prefix}waifu${petik}
+ • ${prefix}waifu
 
-
-*BALANCE MENU*${petik}
+*BALANCE MENU*
  • ${prefix}topglobal
  • ${prefix}toplocal
  • ${prefix}buylimit
  • ${prefix}buyglimit
  • ${prefix}transfer
  • ${prefix}limit
- • ${prefix}balance${petik}
+ • ${prefix}balance
 
-*BAILEYS*${petik}
+*BAILEYS*
  • ${prefix}fitnah
  • ${prefix}nowa
  • ${prefix}getquoted
  • ${prefix}fakehidetag
  • ${prefix}react
  • ${prefix}setcmd
- • ${prefix}delcmd${petik}
+ • ${prefix}delcmd$
 
-*OWNERS MENU*${petik}
+*OWNERS MENU*
  • ${prefix}join
  • ${prefix}left
  • ${prefix}self
@@ -176,10 +175,18 @@ ${mundur}
  • ${prefix}addpremium
  • ${prefix}delpremium
  • ${prefix}addsewa
- • ${prefix}delsewa${petik}`
+ • ${prefix}delsewa`
 }
 
 exports.donate = (pushname, ownerNumber) => {
-    return`Contact  Owner:
+    return`*-------「 DONATE 」 -------*
+
+Hai kak ☺️ 
+Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+Berapapun donasi kalian akan sangat berarti 👍
+
+Thanks!
+
+Contact  Owner:
 wa.me/6285921165857 (Owner)`
 }
