@@ -1,5 +1,5 @@
 {
-    "wait": "```Proses kak!```",
+    "wait": "*Tunggu sebentar permintaanmu sedang diproses*",
     "error": {
         "Iv": "Link yang kamu berikan tidak valid",
         "api": "Maaf terjadi kesalahan"
